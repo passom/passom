@@ -25,8 +25,8 @@ Currently I'm learning all the skills needed in Data Analytics [@neue fische - S
 [![Xing Badge](https://img.shields.io/badge/Xing%20-%23006567?style=plastic&logo=xing&logoColor=white&?&link=https://www.xing.com/profile/Evans_Witte2/cv)](https://www.xing.com/profile/Evans_Witte2/cv)
 
 
-## Data Analytics Portfolio
-__Have a look at pinned projects below__<br>
+## Portfolio
+__You'll find some of my latest projects pinned below.__<br>
 <img src="https://github.com/EvansWitte/EvansWitte/blob/main/images/data_analyse.gif" width=30% height=30%> 
 
 
