@@ -6,7 +6,7 @@ I'm a young Data Analyst with a passion for stats and, programming and problem s
 Currently I'm learning all the skills needed in Data Analytics [@neue fische - School and Pool for Digital Talent]('https://www.neuefische.de/')
 
 ## 🛠 Languages and Tools
-<img src="https://github.com/detain/svg-logos/blob/master/svg/python-3.svg" alt="python" height="55"/>  <img src="https://github.com/EvansWitte/EvansWitte/blob/main/images/NumPy_logo_2020.svg.png" width=8.5% height=8.5%>
+<img src="https://github.com/detain/svg-logos/blob/master/svg/python-3.svg" alt="python" height="55"/>  <img src="https://github.com/passom/passom/blob/main/images/NumPy_logo_2020.svg.png" width=8.5% height=8.5%>
 <img src="https://github.com/EvansWitte/EvansWitte/blob/main/images/Pandas_logo.svg.png" width=8.5% height=8.5%>
 <img src="https://github.com/EvansWitte/EvansWitte/blob/main/images/matplotlib.png" width=8.5% height=8.5%>
 <img src="https://github.com/EvansWitte/EvansWitte/blob/main/images/seabron.png" width=8.5% height=8.5%>
