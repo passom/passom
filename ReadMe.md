@@ -3,7 +3,7 @@
 
 Hi my name is Pascal. <br>
 I'm a young Data Analyst with a passion for stats, programming and problem solving. I have a huge urge to learn and to grow every day. <br> 
-Currently I'm learning all the skills needed in Data Analytics [@neue fische - School and Pool for Digital Talent]('https://www.neuefische.de/')
+Currently I'm learning all the skills needed in Data Analytics [@neue fische - School and Pool for Digital Talent]('https://www.neuefische.de/').
 
 ## 🛠 Languages and Tools
 <img src="https://github.com/detain/svg-logos/blob/master/svg/python-3.svg" alt="python" height="55"/>  <img src="https://github.com/passom/passom/blob/main/images/NumPy_logo_2020.svg.png" width=8.5% height=8.5%>
