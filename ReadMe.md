@@ -2,7 +2,7 @@
 # Welcome! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px">
 
 Hi my name is Pascal. <br>
-I'm a young Data Analyst with a passion for stats and, programming and problem solving. I have a huge urge to learn and to grow every day. <br> 
+I'm a young Data Analyst with a passion for stats, programming and problem solving. I have a huge urge to learn and to grow every day. <br> 
 Currently I'm learning all the skills needed in Data Analytics [@neue fische - School and Pool for Digital Talent]('https://www.neuefische.de/')
 
 ## 🛠 Languages and Tools
