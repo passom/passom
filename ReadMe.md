@@ -6,12 +6,12 @@ I'm a young Data Analyst with a passion for stats and, programming and problem s
 Currently I'm learning all the skills needed in Data Analytics [@neue fische - School and Pool for Digital Talent]('https://www.neuefische.de/')
 
 ## 🛠 Languages and Tools
-<img src="https://github.com/detain/svg-logos/blob/master/svg/python-3.svg" alt="python" height="55"/>  <img src="https://github.com/EvansWitte/EvansWitte/blob/main/images/NumPy_logo_2020.svg.png" width=7.5% height=7.5%>
-<img src="https://github.com/EvansWitte/EvansWitte/blob/main/images/Pandas_logo.svg.png" width=7.5% height=7.5%>
-<img src="https://github.com/EvansWitte/EvansWitte/blob/main/images/matplotlib.png" width=7.5% height=7.5%> 
-<img src="https://github.com/EvansWitte/EvansWitte/blob/main/images/seabron.png" width=7.5% height=7.5%>
-<img src="https://github.com/EvansWitte/EvansWitte/blob/main/images/Scikit_learn_logo_small.svg.png" width=7.5% height=7.5%> 
-<img src="https://github.com/EvansWitte/EvansWitte/blob/main/images/scipy.png" width=7.5% height=7.5% />
+<img src="https://github.com/detain/svg-logos/blob/master/svg/python-3.svg" alt="python" height="55"/>  <img src="https://github.com/EvansWitte/EvansWitte/blob/main/images/NumPy_logo_2020.svg.png" width=8.5% height=8.5%>
+<img src="https://github.com/EvansWitte/EvansWitte/blob/main/images/Pandas_logo.svg.png" width=8.5% height=8.5%>
+<img src="https://github.com/EvansWitte/EvansWitte/blob/main/images/matplotlib.png" width=8.5% height=8.5%>
+<img src="https://github.com/EvansWitte/EvansWitte/blob/main/images/seabron.png" width=8.5% height=8.5%>
+<img src="https://github.com/EvansWitte/EvansWitte/blob/main/images/Scikit_learn_logo_small.svg.png" width=8.5% height=8.5%>
+<img src="https://github.com/EvansWitte/EvansWitte/blob/main/images/scipy.png" width=8.5% height=8.5% />
 <img src="https://github.com/evanswitte/EvansWitte/blob/main/images/image.png" width=10% height=10% /><br>
 
 <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg" alt="Postgresql" height="55"/>
