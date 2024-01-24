@@ -2,8 +2,8 @@
 # Welcome! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px">
 
 Hi my name is Pascal. <br>
-I'm a young Data Analyst with a passion for stats, programming and problem solving. I have a huge urge to learn and to grow every day. <br> 
-Currently I'm learning all the skills needed in Data Analytics at [neue fische - School and Pool for Digital Talent](https://www.neuefische.de/).
+I'm a young Softwaredeveloper with a passion for stats, programming and problem solving. I have a huge urge to learn and to grow every day. <br> 
+Currently I'm learning all the skills needed in Softwaredevelopment at SIGNAL IDUNA.
 
 ## 🛠 Languages and Tools
 <img src="https://github.com/detain/svg-logos/blob/master/svg/python-3.svg" alt="python" height="55"/>  <img src="https://github.com/passom/passom/blob/main/images/NumPy_logo_2020.svg.png" width=8.5% height=8.5%>
